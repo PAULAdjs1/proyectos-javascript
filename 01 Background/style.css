@@ -1,0 +1,31 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+header {background-color: white;
+        color: black;       
+    }
+
+#flex1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#container {
+    background-color: black;
+    color: aqua;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20%;
+    border-radius: 30px 30px 30px 30px;
+}
+
+button {
+    margin-left: 45%;
+    margin-top: 10px;
+}
